@@ -1,8 +1,7 @@
 # Hi, I'm Ardra! 👋
 
-I am a B.Tech'2026 graduate in Industrial Engineering and a full-stack AI/ML engineer focused on building, optimising, and deploying production-grade AI systems. Rather than just performing data analysis, I design end-to-end architectures including LLM applications, Retrieval-Augmented Generation (RAG) systems, agentic pipelines, and scalable cloud deployments.
-
----
+I am a B.Tech'2026 graduate in Industrial Engineering  with a strong foundation in translating emerging AI technologies into quantifiable business value. Hands-on experience owning AI initiatives end-to-end, building voice AI platforms, RAG pipelines, and computer vision solutions through internships and projects. Skilled in requirement analysis, solution mapping, and cross-functional product strategy, with a passion for structuring complex technical concepts into executive-level narratives and proposals. Focused on building, optimising, and deploying production-grade AI systems. I design end-to-end architectures including LLM applications, Retrieval-Augmented Generation (RAG) systems, agentic pipelines, and scalable cloud deployments.
+ 
 
 ## 🏗️ AI & Intelligent Systems
 
